@@ -1,13 +1,14 @@
 #caixa{
     width: 300px;
     height: 300px;
-    background: url("../imagens/camera.png");
+    /*background: url("../imagens/camera.png");*/
+    background: linear-gradient(to top, red, green);
 
 
 }
 
 #caixa h1{
-    background: rgb(255, 255, 255, 0.5);
+    /*background: rgb(255, 255, 255, 0.5);*/
 }
 
 
